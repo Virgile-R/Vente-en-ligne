@@ -1,0 +1,9 @@
+body, .mainContainer{
+  min-height: 90vh;
+}
+body{
+  background-image: url(../img/gradientExo.png);
+}
+.right {
+  background-color: aliceblue;
+}
